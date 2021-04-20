@@ -7,7 +7,7 @@ This project's purpose is to test the lingua language detection crate for rust. 
 Run the program:
 
 ```rust
-cargo run -- release
+cargo run --release
 ```
 
 Then type a text into the prompt and press enter. The time it took and the detected language will be printed.
